@@ -1,3 +1,4 @@
 {
-  "useNewDesign": false
+  "telemetry": false,
+  "server": "https://sparkling-sunset-4557.rafael-ddc.workers.dev"
 }
